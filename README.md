@@ -10,6 +10,8 @@
 ## Description 
 General overview of the project, what you did, why you did it, etc. 
 
+For this project, I created a text-based adventure game based on Python. I like to watch movies and TV shows in the detective-solving genre, and I also like to study the process of detectives solving cases through various details and props. As a kid, I used to play some text-based adventure games. These games don't have vivid graphics, but you can feel the tension and the interesting flow of the game through text descriptions. Now I want to create a simple text-based adventure game using the coding knowledge I've learned this semester.
+
 
 ## Key Features
 Highlight some key features of this project that you want to show off/talk about/focus on. 
