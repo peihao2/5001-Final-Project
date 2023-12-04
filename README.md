@@ -25,6 +25,7 @@ Players take on the role of Conan, who must solve a mysterious murder in the par
 4. Reasoning: Ask the player puzzles or logical questions based on the clues collected. Accusing the Criminal: Confront the murderer after collecting enough evidence. Depending on the player's choices and the evidence collected, this part may have multiple outcomes. Finally, explain how the roller coaster was used to commit the murder. If the player makes choices according to the normal storyline, I'll end with an explanation of the entire crime, which is like a conclusion drawn by the player's reasoning.
 If the player chooses the wrong murderer, it leads to a different outcome and then the storyline ends.
 
+
 Game Mechanics:
 CHOICES: The player will make choices at key moments that will affect the direction and end of the story.
 INVENTORY SYSTEM: Collect and use items related to the investigation.
