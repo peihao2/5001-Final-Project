@@ -20,10 +20,11 @@ I was inspired by the animated movie Conan. The story is about Conan and his tea
 Game Overview:
 Players take on the role of Conan, who must solve a mysterious murder in the park. The game is played through text descriptions, choices, and puzzle elements.
 1. Introduce the park scene. Introduce the main characters: Conan and Ran. As well as a few supporting characters.
-2. text description of the roller coaster accident. Discovery of the murder. Initial reaction of passengers and confusion. 3.
+2. Text description of the roller coaster accident. Discovery of the murder. Initial reaction of passengers and confusion.
 3. Investigation Stage: Allow players to select different areas or clues to examine (e.g., seating arrangements, bodies, roller coaster contraptions). Interviewing Witnesses: Choose to talk to different characters to gather information. Gathering Clues: Look for items or observations that are vital to solving the case (e.g. dropped items, strange markings).
 4. Reasoning: Ask the player puzzles or logical questions based on the clues collected. Accusing the Criminal: Confront the murderer after collecting enough evidence. Depending on the player's choices and the evidence collected, this part may have multiple outcomes. Finally, explain how the roller coaster was used to commit the murder. If the player makes choices according to the normal storyline, I'll end with an explanation of the entire crime, which is like a conclusion drawn by the player's reasoning.
 If the player chooses the wrong murderer, it leads to a different outcome and then the storyline ends.
+
 Game Mechanics:
 CHOICES: The player will make choices at key moments that will affect the direction and end of the story.
 INVENTORY SYSTEM: Collect and use items related to the investigation.
