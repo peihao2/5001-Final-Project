@@ -68,8 +68,8 @@ Each function has a descriptive documentation string to explain its use. The pla
 How did you test your code? What did you do to make sure your code was correct? If you wrote unit tests, you can link to them here. If you did run tests, make sure you document them as text files, and include them in your submission. 
 
 > _Make it easy for us to know you *ran the project* and *tested the project* before you submitted this report!_
->
-> Since my code has a lot of human interaction and different choices can result in different endings. I tested the code manually by running the script many times and navigating different paths and choices. Due to the interactive nature of the game, no automated tests were implemented.
+
+Since my code has a lot of human interaction and different choices can result in different endings. I tested the code manually by running the script many times and navigating different paths and choices. Due to the interactive nature of the game, no automated tests were implemented.
 
 
 ## Missing Features / What's Next
@@ -84,9 +84,11 @@ Write at least a paragraph about your experience in this course. What did you le
 
 This is my first time developing a text-based adventure game. I encountered very many difficulties and challenges, and the interesting part was that I could guide the player to deduce and decipher a crime scene.
 Designing the flow of the game and managing the global state of the threads required careful planning and consideration of how players would interact with the game at different stages.
+
 An important learning point is to build code in a way that balances readability and functionality. Creating different functions for different parts of the game, such as intro, roller_coaster_choice, and final_judgment, helped maintain clarity and modularity. This approach makes the code easier to manage.
 Even more challenging was implementing the time limit feature, which added a layer of complexity to the game logic. It forced me to consider how the different components of the game would interact over time. This would give the player an immersive experience; after all, real-life detectives often need to reason through crimes and make judgments as quickly as possible.
 With this game, I realize there are multiple avenues for enhancement and expansion. The current version lacks a graphical user interface. I hope to add more interaction in the future to make the game more interactive and visually appealing.
+
 I also need to introduce more complex puzzles and branching storylines. This will not only add depth to the gameplay, but also increase replayability as players can explore different paths and outcomes.
 In the future I would also like to develop a set of automated tests, especially for non-interactive components, that will enhance the reliability and robustness of the game.
 In conclusion, developing a text-based adventure game has been a rewarding experience and the project has enabled me to gain a lot of experience. In the future, when faced with more complex programming, I will start with each small problem and gradually improve my code.
